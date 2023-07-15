@@ -1,6 +1,10 @@
 ![](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
 # 💫 About Me:
-Hi, I'm Berkay Öztürk. I am studying Management Information Systems at Dokuz Eylül University. I am in my second year. I am currently studying backend web development and frontend web development with java.
+Hello, I am Berkay Öztürk. I am studying Management Information Systems at Dokuz Eylül University. I am in my third year. I am currently developing myself by taking trainings in front-end, back-end and data science.
+
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Machine Learning, Deep Learning and Data Science**
+
+- 📫 How to reach me **berkay.ozturk21@ogr.deu.edu.tr**
 
 All of my projects are available at [repositories](https://github.com/Berkayozturkx?tab=repositories)
 

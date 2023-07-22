@@ -2,7 +2,7 @@
 # 💫 About Me:
 Hello, I am Berkay Öztürk. I am studying Management Information Systems at Dokuz Eylül University. I am in my third year. I am currently developing myself by taking trainings in front-end, back-end and data science.
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Machine Learning, Deep Learning and Data Science**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Science**
 
 - 📫 How to reach me **berkay.ozturk21@ogr.deu.edu.tr**
 

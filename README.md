@@ -1,6 +1,6 @@
 ![](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
 # 💫 About Me:
-Hello, I am Berkay Öztürk. I am studying Management Information Systems at Dokuz Eylül University. I am in my third year. I am currently developing myself by taking trainings in front-end, back-end and data science.
+Hello, I am Berkay Öztürk. I am studying Management Information Systems at Dokuz Eylül University. I am in my third year. I am currently developing myself by taking trainings in back-end and data science.
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Science**
 
